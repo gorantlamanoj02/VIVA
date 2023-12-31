@@ -1,5 +1,5 @@
 # VIVA
-Virtually Intelligent Voice Assistant
+*Virtually Intelligent Voice Assistant*
 
 VIVA: Virtually Intelligent Voice Assistant leverages *OpenAI's* text-based models and *Whisper's* audio processing capabilities to enable seamless interactions via text and voice. The system incorporates a *User-friendly interface*, supporting both text and voice inputs, to facilitate user interaction. 
 
